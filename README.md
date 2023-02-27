@@ -1,1 +1,1 @@
-# Active-Beam-Tracking-with-Reconfigurable-Intelligent-Surface
+# Active-Beam-Tracking-with-RIS
