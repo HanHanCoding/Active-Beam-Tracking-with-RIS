@@ -19,4 +19,4 @@ Please only generate the 'Rician_channel' folder once and use the same generated
 Notice, since the moving trajectory of the UE is randomly generated, there is no guarantee that Fig. 5 can be reproduced exactly the same.
 
 ## Questions
-If you have any questions, please feel free to reach me at: johnny.han@mail.utoronto.ca
+If you have any questions, please feel free to reach me at: h.han.working@gmail.com
